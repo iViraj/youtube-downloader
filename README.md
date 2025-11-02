@@ -1,6 +1,6 @@
 # youtube-downloader
 This is a YouTube Downloader Tool for Termux in Android Only.
-To get started, Download the zip file. Extract it.
+To get started, go to releases and Download the latest zip file. Extract it.
 
 ==================================
 
