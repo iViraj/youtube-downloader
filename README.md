@@ -15,7 +15,6 @@ Your downloaded videos or audios will be saved in Your Download folder in Intern
 --------------------------
 
 • Extract "yt.zip". You'll get a folder ".yt".
-
 • Copy ".yt" folder and paste it to "/internal storage/0/" (I mean paste it direct in your internal storage, not in any folder.).
 
 • Now, install "termux.apk" and open it. 
