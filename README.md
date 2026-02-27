@@ -22,7 +22,7 @@ Your downloaded videos or audios will be saved in Your Download folder in Intern
 
 • Run this command to your Termux.
 
-• Command - [ termux-setup-storage ]. It will ask for storage permission.
+• Command - [ ```termux-setup-storage``` ]. It will ask for storage permission.
 
 • Command - [ pkg update && pkg upgrade ] and wait for 3 - 5 minutes.
 
