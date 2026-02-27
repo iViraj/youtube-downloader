@@ -37,8 +37,6 @@ Your downloaded videos or audios will be saved in Your Download folder in Intern
 Everytime you want to download youtube video, Just Open Termux and type [ ```yt``` ] . Wait for 10 second. You'll be redirected to a webpage in chrome.
 
 
-===================
-Made with ♡ By ViruDaya
+=================== ---
+Made with ♡ By ViruDaya <br>
 © ViruDaya | MIT 2025
-
-for legal, check LICENSE.
