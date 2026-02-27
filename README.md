@@ -24,17 +24,17 @@ Your downloaded videos or audios will be saved in Your Download folder in Intern
 
 • Command - [ ```termux-setup-storage``` ]. It will ask for storage permission.
 
-• Command - [ pkg update && pkg upgrade ] and wait for 3 - 5 minutes.
+• Command - [ ```pkg update && pkg upgrade``` ] and wait for 3 - 5 minutes.
 
-• Command - [ pkg install python && pip install flask && pip install flask_cors]
+• Command - [ ```pkg install python && pip install flask && pip install flask_cors``` ]
 
-• Command - [ echo alias yt='cd /sdcard/.yt && python app.py' >> ~/.bashrc ].
+• Command - [ ```echo alias yt='cd /sdcard/.yt && python app.py' >> ~/.bashrc``` ].
 
 • Then Click Enter. Restart Termux and You're Good to go....
 
-• Now, open Termux again and type [ yt ]. Wait for 10 second. You'll be redirected to a webpage in chrome. Have Fun. Download your Video.
+• Now, open Termux again and type [ ```yt``` ]. Wait for 10 second. You'll be redirected to a webpage in chrome. Have Fun. Download your Video.
 
-Everytime you want to download youtube video, Just Open Termux and type [ yt ] . Wait for 10 second. You'll be redirected to a webpage in chrome.
+Everytime you want to download youtube video, Just Open Termux and type [ ```yt``` ] . Wait for 10 second. You'll be redirected to a webpage in chrome.
 
 
 ===================
