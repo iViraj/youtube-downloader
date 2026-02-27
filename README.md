@@ -1,9 +1,9 @@
-# youtube-downloader
+# Youtube Downloader
 This is a YouTube Downloader Tool for Termux in Android Only.
 To get started, go to releases and Download the latest zip file. Extract it.
 It can also download videos from instagram, tik tok, etc.
 
-==================================
+---
 
 Note: Use Zarchiever App for better experience. Make sure to enable "Show hidden Files"
 
