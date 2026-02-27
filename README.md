@@ -9,16 +9,16 @@ Note: Use Zarchiever App for better experience. Make sure to enable "Show hidden
 
 **Some common things**
 
-If the terminal writes "Do you want to continue? [Y/n]" , then simply write "y" (small lettered) and press enter.
+If the terminal writes "```Do you want to continue? [Y/n]```" , then simply write "```y```" (small lettered) and press enter.
 Your downloaded videos or audios will be saved in Your Download folder in Internal Storage.
 
 --------------------------
 
-• Extract "yt.zip". You'll get a folder ".yt".
+• Extract "```yt.zip```". You'll get a folder "```.yt```".
 
-• Copy ".yt" folder and paste it to "/internal storage/0/" (I mean paste it direct in your internal storage, not in any folder.).
+• Copy ".yt" folder and paste it to "```/internal storage/0/```" (I mean paste it direct in your internal storage, not in any folder.).
 
-• Now, Open Termux (downloaded from fdroid). 
+• Now, Open Termux (downloaded from Fdroid). 
 
 • Run this command to your Termux.
 
