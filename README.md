@@ -1,6 +1,7 @@
 # youtube-downloader
 This is a YouTube Downloader Tool for Termux in Android Only.
 To get started, go to releases and Download the latest zip file. Extract it.
+It can also download videos from instagram, tik tok, etc.
 
 ==================================
 
@@ -22,10 +23,7 @@ Your downloaded videos or audios will be saved in Your Download folder in Intern
 • Command - [ termux-setup-storage ]. It will for storage permission.
 • Command - [ pkg update && pkg upgrade ] and wait for 3 - 5 minutes.
 • Command - [ pkg install python && pip install flask && pip install flask_cors]
-• Command - [ nano ~/.bashrc ].
-• Paste there [ alias yt='cd /sdcard/.yt && python app.py' ]
-• Then click on **CTRL** + X 
-• Then type Y. 
+• Command - [ echo alias yt='cd /sdcard/.yt && python app.py' >> ~/.bashrc ].
 • Then Click Enter. Close Termux and You're Good to go....
 • Open Termux Again and type [ yt ]. Wait for 10 second. You'll be redirected to a webpage in chrome. Have Fun. Download your Video.
 
